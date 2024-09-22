@@ -1,0 +1,10 @@
+var canvas=document.querySelector("canvas");
+// var ctx=canvas.getContext("2d");
+// console.log(ctx);
+// ctx.moveTo(0,0);
+// ctx.lineTo(70,80);
+// ctx.stroke();
+canvas.width="30%";
+canvas.height="30%";
+canvas.width=innerWidth;
+canvas.height=innerHeight;
